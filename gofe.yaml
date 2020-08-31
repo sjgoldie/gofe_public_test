@@ -1,2 +1,2 @@
 gofe:
-  testMessage: Hi there dood. Switched to file system, any good? Try again, seems t be some sort of deadlock? Try again?
+  testMessage: Hi there dood. Looks like it's not threadsafe. Now, is it go-git or is it me?
